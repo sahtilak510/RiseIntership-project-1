@@ -1,0 +1,9 @@
+- [x] Clarify Project Requirements
+  - Project: Currency Converter App (Python, CLI & Tkinter GUI)
+- [ ] Scaffold the Project
+- [ ] Customize the Project
+- [ ] Install Required Extensions
+- [ ] Compile the Project
+- [ ] Create and Run Task
+- [ ] Launch the Project
+- [ ] Ensure Documentation is Complete
